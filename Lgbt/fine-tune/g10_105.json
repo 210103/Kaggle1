@@ -1,0 +1,12 @@
+{
+    "learning_rate": 0.17182055299793772,
+    "lambda_l1": 1.5349143381979692e-08,
+    "lambda_l2": 0.003623295570826535,
+    "num_leaves": 557,
+    "min_data_in_leaf": 804,
+    "feature_fraction": 0.7999985022836827,
+    "feature_fraction_bynode": 0.6449939875625066,
+    "min_sum_hessian_in_leaf": 41,
+    "bagging_fraction": 0.8558346597702123,
+    "bagging_freq": 5
+}
